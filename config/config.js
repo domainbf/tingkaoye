@@ -4,10 +4,11 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  let name = "不讲李";
-let result = name.slice(0, 2) + "<strong><big>" + name.slice(2) + "</big></strong>";
+  const name = "不讲李";
+const result = name.slice(0, 2) + "<strong><big>" + name.slice(2) + "</big></strong>";
 console.log(result);
 
+export const navigation = {
   links: [
     {
       title: "About",
@@ -31,6 +32,7 @@ console.log(result);
     }
   ],
 }
+
 export const intro = {
   title: "Hey, I'm Li",
   description: "A player who especially likes to collect domain names.",
