@@ -162,8 +162,7 @@ export const links = {
       link: "https://t.me/domain_bf",
     },
     {
-      title: "My Twitter
-",
+      title: "My Twitter",
       link: "https://twitter.com/domain_bf",
     },
     {
