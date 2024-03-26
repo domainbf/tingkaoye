@@ -4,7 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  name: "Hashir",
+  name: "不讲李",
   links: [
     {
       title: "About",
@@ -29,18 +29,18 @@ export const navigation = {
   ],
 }
 export const intro = {
-  title: "Hey, I'm Hashir",
-  description: "A Computer Engineer creating mobile apps and static websites.",
+  title: "Hey, I'm Li",
+  description: "A domain name player who provides customized domain name services.",
   image: profile.src,
   buttons: [
     {
       title: "Contact Me",
-      link: "#contact",
+      link: "mailto:domain@name.cf",
       isPrimary: true,
     },
     {
-      title: "Resume",
-      link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+      title: "order",
+      link: "https://nic.bn",
       isPrimary: false,
     },
   ],
