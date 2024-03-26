@@ -94,8 +94,8 @@ export const projects = {
       ]
     },
     {
-      title: "QuranTalk",
-      description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+      title: "Whois.ls",
+      description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
       icons: [
         {
           icon: faAppStore,
@@ -108,12 +108,12 @@ export const projects = {
       ]
     },
     {
-      title: "Portfolio",
-      description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+      title: "tools.st",
+      description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites.",
       icons: [
         {
           icon: faEarthAmericas,
-          link: "https://github.com/hashirshoaeb/portfolio",
+          link: "https://tools.st",
         },
       ]
     },
