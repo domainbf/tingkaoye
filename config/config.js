@@ -4,11 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  const name = "不讲李";
-const result = name.slice(0, 2) + "<strong><big>" + name.slice(2) + "</big></strong>";
-console.log(result);
-
-export const navigation = {
+  name: "Hashir",
   links: [
     {
       title: "About",
