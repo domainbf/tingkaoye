@@ -112,7 +112,7 @@ export const projects = {
       description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites.",
       icons: [
         {
-          icon: faEarthAmericas,
+          icon: faHouse,
           link: "https://tools.st",
         },
       ]
