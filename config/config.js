@@ -4,7 +4,10 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  name: "不讲李",
+  let name = "不讲李";
+let result = name.slice(0, 2) + "<strong><big>" + name.slice(2) + "</big></strong>";
+console.log(result);
+
   links: [
     {
       title: "About",
