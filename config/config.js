@@ -121,16 +121,16 @@ export const projects = {
 
 export const contact = {
   title: "Get in touch",
-  description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+  description: "I firmly believe that in the future digital field, holding a top-notch domain name will make your individual or company's ID on the Internet unique. NIC.BN.",
   buttons: [
     {
       title: "Email Me",
-      link: "mailto:hashirshoaeb@gmail.com",
+      link: "mailto:domain@name.cf",
       isPrimary: true,
     },
     {
-      title: "Schedule Meeting",
-      link: "https://topmate.io/hashirshoaeb",
+      title: "register",
+      link: "https://nic.bn",
       isPrimary: false,
     },
   ]
@@ -139,15 +139,15 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
   // 50 - 60 char  
-  title: "Hashir Shoaib | Computer Engineer | Flutter | Reactjs developer",
-  description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+  title: "Registered domain name | single character one letter domain name | Custom domain name | delayed delivery domain name",
+  description: "Since 2022, we have provided customers with personalized one-letter single-character domain names and special prefix net domain names. We look forward to providing you with domain name privatization customization services.",
   image: profile.src,
 }
 
 export const links = {
   image: profile.src,
-  title: "@hashirshoaeb",
-  description: "Computer Engineer | Flutter | Reactjs Developer",
+  title: "@不讲李",
+  description: "Like domain names | Likes beautiful women | Likes food",
   cards: [
     {
       title: "My Email",
