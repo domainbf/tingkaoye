@@ -162,8 +162,12 @@ export const links = {
       link: "https://github.com/hashirshoaeb/",
     },
     {
+      title: "My Medium",
+      link: "https://medium.com/@hashirshoaeb",
+    },
+    {
       title: "My LinkedIn",
       link: "https://www.linkedin.com/in/hashirshoaeb/",
     },
-  ]
+  ],
 }
