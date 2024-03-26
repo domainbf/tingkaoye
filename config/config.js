@@ -114,6 +114,7 @@ export const projects = {
         {
           icon: faGithub,
           link: "https://tools.st",
+          
         },
       ]
     },
@@ -134,6 +135,7 @@ export const contact = {
       link: "https://nic.bn",
       isPrimary: false,
     },
+    <a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="40" height="40" src="https://domain.cards/api/icon/[domain]" atl="米表联盟 BadgeIcon"/></a>
   ]
 }
 
