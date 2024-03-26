@@ -75,6 +75,7 @@ export const work = {
   ],
 }
 
+
 export const projects = {
   title: "Projects",
   cards: [
