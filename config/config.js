@@ -150,24 +150,25 @@ export const links = {
   description: "Computer Engineer | Flutter | Reactjs Developer",
   cards: [
     {
-      title: "My website",
-      link: "https://hashirshoaeb.com/",
+      title: "My Email",
+      link: "domain@name.cf",
     },
     {
-      title: "QuranTalk App",
-      link: "https://www.qurantalk.app/",
+      title: "My WhatsApp",
+      link: "https://wa.me/16267895678",
     },
     {
-      title: "StarBook App",
-      link: "https://starbook.dev/",
+      title: "My Telegram",
+      link: "https://t.me/domain_bf",
     },
     {
-      title: "My GitHub",
-      link: "https://github.com/hashirshoaeb/",
+      title: "My Twitter
+",
+      link: "https://twitter.com/domain_bf",
     },
     {
-      title: "My LinkedIn",
-      link: "https://www.linkedin.com/in/hashirshoaeb/",
+      title: "My VOICE",
+      link: "+16267895678",
     },
   ]
 }
