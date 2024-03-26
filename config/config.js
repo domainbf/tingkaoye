@@ -112,7 +112,7 @@ export const projects = {
       description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
       icons: [
         {
-          icon: earth-americas,
+          icon: faearth-americas,
           link: "https://github.com/hashirshoaeb/portfolio",
         },
       ]
