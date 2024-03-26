@@ -33,7 +33,7 @@ console.log(result);
 }
 export const intro = {
   title: "Hey, I'm Li",
-  description: "A domain name player who provides customized domain name services.",
+  description: "A player who especially likes to collect domain names.",
   image: profile.src,
   buttons: [
     {
@@ -63,6 +63,12 @@ export const work = {
       title: "Mobile App Development",
       description: "I create pixel perfect iOS and Andriod apps using Flutter.",
       icons: null,
+    },
+    {
+      title: "Web Development",
+      description: "I create responsive static websites using Reactjs.",
+      icons: null,
+    }
     },
     {
       title: "Web Development",
