@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'next/link'
+import Link from 'next/link';
 
 export const Contact = ({ title, description, buttons }) => {
 	return (
@@ -40,14 +40,14 @@ export const Footer = () => {
 					</Link>
 					. Domain name display page {" "}
 					<Link href="https://domain.bf">
-						<a>不讲李</a>
+						<a></a>
 					</Link>
-					{" "} 
+					{" "}
+					<a title="米表联盟[Domain.Cards]" href="https://domain.cards/">
+						<img width="150" height="40" src="https://domain.cards/api/badge/[domain]" alt="米表联盟 BadgeBar"/>
+					</a>
 				</small>
 			</div>
 		</footer>
 	);
 }
-export const bottomHTML = `
-<a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/[domain]" atl="米表联盟 BadgeBar"/></a>
-`;
