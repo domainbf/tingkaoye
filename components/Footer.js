@@ -38,7 +38,7 @@ export const Footer = () => {
 					<Link href="https://nic.bn">
 						<a>NIC.BN</a>
 					</Link>
-					. Domain name display page {" "}
+					. Domain name registrant {" "}
 					<Link href="https://domain.bf">
 						<a></a>
 					</Link>
