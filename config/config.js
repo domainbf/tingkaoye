@@ -39,7 +39,7 @@ export const intro = {
       isPrimary: true,
     },
     {
-      title: "order",
+      title: "NIC.BN",
       link: "https://nic.bn",
       isPrimary: false,
     },
