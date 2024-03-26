@@ -52,7 +52,7 @@ export const intro = {
 export const about = {
   title: "Who I am",
   description: [
-    "We provide domain names with customization, personalization, uniqueness, characteristics, top-level, domain names, and provide you with high-quality domain names at a good price, which will help you occupy a vital place in the digital field in the future.",
+    "We provide domain names with customization personalization uniqueness characteristics top-level domain names and provide you with high-quality domain names at a good price which will help you occupy a vital place in the digital field in the future.",
   ],
 }
 
