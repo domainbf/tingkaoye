@@ -48,28 +48,28 @@ export const intro = {
 }
 
 export const about = {
-  title: "Who I am",
+  title: "Secure transaction",
   description: [
-    "We provide domain names with customization personalization uniqueness characteristics top-level domain names and provide you with high-quality domain names at a good price which will help you occupy a vital place in the digital field in the future.",
+    "We guarantee that after you make the payment, the domain name will be securely transferred to any registered platform that you recognize.",
   ],
 }
 
 export const work = {
-  title: "What I do",
+  title: "The domain name we hold",
   cards: [
     {
-      title: "Mobile App Development",
-      description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+      title: "NIC.BN",
+      description: "Rare domain names.",
       icons: null,
     },
     {
-      title: "Web Development",
-      description: "I create responsive static websites using Reactjs.",
+      title: "F.AF",
+      description: "Single character domain name.",
       icons: null,
     },
     {
-      title: "Web Development",
-      description: "I create responsive static websites using Reactjs.",
+      title: "L.KE",
+      description: "Single character domain name.",
       icons: null,
     }
   ],
