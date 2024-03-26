@@ -68,11 +68,6 @@ export const work = {
       title: "Web Development",
       description: "I create responsive static websites using Reactjs.",
       icons: null,
-    },
-    {
-      title: "Web Development",
-      description: "I create responsive static websites using Reactjs.",
-      icons: null,
     }
   ],
 }
