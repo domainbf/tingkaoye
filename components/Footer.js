@@ -36,15 +36,18 @@ export const Footer = () => {
 			<div className="container text-muted">
 				<small>&copy; 2024 {" "}
 					<Link href="https://nic.bn">
-						<a>Belong to NICE.BN</a>
+						<a>NIC.BN</a>
 					</Link>
 					. Domain name display page {" "}
 					<Link href="https://domain.bf">
 						<a>不讲李</a>
 					</Link>
-					{" "} License
+					{" "} 
 				</small>
 			</div>
 		</footer>
 	);
 }
+export const bottomHTML = `
+<a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/[domain]" atl="米表联盟 BadgeBar"/></a>
+`;
