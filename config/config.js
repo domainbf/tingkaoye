@@ -55,7 +55,7 @@ export const about = {
 }
 
 export const work = {
-  title: "The domain name we hold",
+  title: "Holding domain",
   cards: [
     {
       title: "NIC.BN",
@@ -77,7 +77,7 @@ export const work = {
 
 
 export const projects = {
-  title: "Projects",
+  title: "Member website",
   cards: [
     {
       title: "NIC.BN",
