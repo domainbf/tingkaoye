@@ -33,21 +33,7 @@ export const Contact = ({ title, description, buttons }) => {
 export const Footer = () => {
 	return (
 		<footer className="bg-secondary text-center py-2 px-5">
-			<div className="container text-muted">
-				<small>&copy; 2024 {" "}
-					<Link href="https://nic.bn">
-						<a>NIC.BN</a>
-					</Link>
-					. Domain name registrant {" "}
-					<Link href="https://domain.bf">
-						<a></a>
-					</Link>
-					{" "}
-					<a title="米表联盟[Domain.Cards]" href="https://domain.cards/">
-						<img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar"/>
-					</a>
-				</small>
-			</div>
+			<div class="container text-muted"><small>© 2024 <!-- --> <a href=" ">NIC.BN</a >. Domain name registrant <!-- --> <a href="https://domain.bf"></a > </small><p><a title="米表联盟[Domain.Cards]" href="https://domain.cards/">< img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar"></a ></p ></div>
 		</footer>
 	);
 }
