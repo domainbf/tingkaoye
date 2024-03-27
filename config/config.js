@@ -7,24 +7,24 @@ export const navigation = {
   name: "NIC.BN",
   links: [
     {
-      title: "About",
+      title: "website",
       link: "#about",
     },
     {
-      title: "Projects",
+      title: "domain name",
       link: "#projects",
     },
     {
-      title: "Contact",
+      title: "Mi Biao Franchise",
       link: "#contact",
     },
     {
-      title: "Links",
+      title: "Contact information",
       link: "/links",
     },
     {
       title: "Blog",
-      link: "https://medium.com/@hashirshoaeb",
+      link: "https://shen.fan",
     }
   ],
 }
