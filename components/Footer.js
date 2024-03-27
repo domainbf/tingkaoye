@@ -31,12 +31,13 @@ export const Contact = ({ title, description, buttons }) => {
 }
 
 export const Footer = () => {
-return (
-<footer className="bg-secondary text-center py-2 px-5">
-<div className="container text-muted">
-<small>© 2024 <a href=" ">NIC.BN</a>. Domain name registrant <a href="https://domain.bf"></a></small>
-<p><a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar"></a></p>
-</div>
-</footer>
-);
+	return (
+		<footer className="bg-secondary text-center py-2 px-5">
+			<div className="container text-muted">
+				<small>© 2024 <a href=" ">NIC.BN</a>. Domain name registrant <a href="https://domain.bf"></a></small>
+				<p><a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar"></a></p>
+			</div>
+		</footer>
+	);
 }
+
