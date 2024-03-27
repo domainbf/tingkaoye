@@ -84,7 +84,7 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: faAppStore,
+          icon: faGithub,
           link: "https://nic.bn",
         },   
       ]
@@ -94,7 +94,7 @@ export const projects = {
       description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
       icons: [
         {
-          icon: faAppStore,
+          icon: faGithub,
           link: "https://whois.ls",
         },        
       ]
