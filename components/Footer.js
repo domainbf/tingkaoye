@@ -44,7 +44,7 @@ export const Footer = () => {
 					</Link>
 					{" "}
 					<a title="米表联盟[Domain.Cards]" href="https://domain.cards/">
-						<img width="150" height="40" src="https://domain.cards/api/badge/[domain]" alt="米表联盟 BadgeBar"/>
+						<img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar"/>
 					</a>
 				</small>
 			</div>
