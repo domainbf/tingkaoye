@@ -84,7 +84,7 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: faShareSquare,
+          icon: fas fa-star-of-life,
           link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
         },
         {
