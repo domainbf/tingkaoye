@@ -15,8 +15,8 @@ export const navigation = {
       link: "#projects",
     },
     {
-      title: "Mi Biao Franchise",
-      link: "#contact",
+      title: "Domain Name Alliance",
+      link: "https://domain.cards/",
     },
     {
       title: "Contact information",
