@@ -1,6 +1,6 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
