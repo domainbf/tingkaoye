@@ -81,6 +81,36 @@ export const work = {
       description: "Single character domain name.",
       icons: null,
     }
+    },
+    {
+      title: "CXL.NET",
+      description: "Single character domain name.",
+      icons: null,
+    }
+    },
+    {
+      title: "WHOIS.LS",
+      description: "Single character domain name.",
+      icons: null,
+    }
+    },
+    {
+      title: "DOMAIN.BF",
+      description: "Single character domain name.",
+      icons: null,
+    }
+    },
+    {
+      title: "SORA.MK",
+      description: "Single character domain name.",
+      icons: null,
+    }
+    },
+    {
+      title: "RULE.ML",
+      description: "Single character domain name.",
+      icons: null,
+    } 
   ],
 }
 
