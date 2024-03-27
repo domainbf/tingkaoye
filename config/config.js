@@ -85,12 +85,9 @@ export const projects = {
       icons: [
         {
           icon: faAppStore,
-          link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
+          link: "https://nic.bn",
         },
-        {
-          icon: faGithub,
-          link: "https://github.com/hashirshoaeb/star_book",
-        },
+      
       ]
     },
     {
@@ -99,12 +96,9 @@ export const projects = {
       icons: [
         {
           icon: faAppStore,
-          link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
+          link: "https://whois.ls",
         },
-        {
-          icon: faGooglePlay,
-          link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
-        },
+        
       ]
     },
     {
