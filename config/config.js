@@ -2,7 +2,7 @@
 import profile from './profile.png';
 import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
-
+<script src="https://kit.fontawesome.com/a204abe4a9.js" crossorigin="anonymous"></script>
 export const navigation = {
   name: "NIC.BN",
   links: [
@@ -84,9 +84,13 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
+          icon: fas fa-star-of-life,
+          link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
+        },
+        {
           icon: faGithub,
-          link: "https://nic.bn",
-        },   
+          link: "https://github.com/hashirshoaeb/star_book",
+        },
       ]
     },
     {
@@ -94,9 +98,13 @@ export const projects = {
       description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
       icons: [
         {
-          icon: faGithub,
-          link: "https://whois.ls",
-        },        
+          icon: faAppStore,
+          link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
+        },
+        {
+          icon: faGooglePlay,
+          link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
+        },
       ]
     },
     {
