@@ -19,11 +19,11 @@ export const navigation = {
       link: "#contact",
     },
     {
-      title: "Links",
+      title: "Contact information",
       link: "/links",
     },
     {
-      title: "Blog",
+      title: "My Blog",
       link: "https://shen.fan",
     }
   ],
