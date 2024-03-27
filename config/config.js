@@ -201,7 +201,7 @@ export const links = {
     },
     {
       title: "My VOICE",
-      link: "tel:1234567890",
+      link: "tel:6267895678",
     },
   ]
 }
