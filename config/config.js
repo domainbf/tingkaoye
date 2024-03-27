@@ -93,7 +93,7 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: <i class="fa-solid fa-house"></i>,
+          icon: faHouse,
           link: "https://nic.bn",
         },   
       ]
