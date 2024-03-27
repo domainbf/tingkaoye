@@ -32,7 +32,7 @@ export const navigation = {
 export const intro = {
   title: "Hey, I'm Li",
   description: "A player who especially likes to collect domain names.",
-  image: profile.src,
+  image: profile,
   buttons: [
     {
       title: "Contact Me",
@@ -164,11 +164,11 @@ export const SEO = {
   // 50 - 60 char  
   title: "Registered domain name | single character one letter domain name | Custom domain name | delayed delivery domain name",
   description: "Since 2022, we have provided customers with personalized one-letter single-character domain names and special prefix net domain names. We look forward to providing you with domain name privatization customization services.",
-  image: profile.src,
+  image: profile,
 }
 
 export const links = {
-  image: profile.src,
+  image: profile,
   title: "@不讲李",
   description: "Like domain names | Likes beautiful women | Likes food",
   cards: [
