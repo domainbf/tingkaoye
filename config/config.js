@@ -1,7 +1,7 @@
 
 import profile from './profile.png';
 import { faAppStore, faHouse, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
-import { } from '@fortawesome/free-solid-svg-icons';
+import { faHouse, faGooglePlay } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
   name: "NIC.BN",
@@ -71,40 +71,34 @@ export const work = {
       title: "L.KE",
       description: "Single character domain name.",
       icons: null,
-    }
     },
     {
       title: "CXL.NET",
       description: "Single character domain name.",
       icons: null,
-    }
     },
     {
       title: "WHOIS.LS",
       description: "Single character domain name.",
       icons: null,
-    }
     },
     {
       title: "DOMAIN.BF",
       description: "Single character domain name.",
       icons: null,
-    }
     },
     {
       title: "SORA.MK",
       description: "Single character domain name.",
       icons: null,
-    }
     },
     {
       title: "RULE.ML",
       description: "Single character domain name.",
       icons: null,
-    } 
+    }
   ],
 }
-
 
 export const projects = {
   title: "Member website",
@@ -136,7 +130,6 @@ export const projects = {
         {
           icon: faGooglePlay,
           link: "https://tools.st",
-          
         },
       ]
     },
