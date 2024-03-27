@@ -60,57 +60,46 @@ export const work = {
     {
       title: "NIC.BN",
       description: " Rare domain names.",
-      icons: null,
     },
     {
       title: "F.AF",
       description: "Single character domain name.",
-      icons: null,
     },
     {
       title: "L.KE",
       description: "Single character domain name.",
-      icons: null,
     },
     {
       title: "CXL.NET",
       description: "Welcome to quote.",
-      icons: null,
     },
     {
       title: "SORA.MK",
       description: "Welcome to quote.",
-      icons: null,
-     },
+    },
     {
       title: "RULE.ML",
       description: "Welcome to quote.",
-      icons: null,
     },
     {
       title: "INTELS.AT",
       description: "Welcome to quote.",
-      icons: null,
-     },
+    },
     {
       title: "SALE.VG",
       description: "Welcome to quote.",
-      icons: null,
     },
     {
       title: "Fil.ng",
       description: "Welcome to quote.",
-      icons: null, 
-     },
+    },
     {
       title: "FUCK.BF",
       description: "Welcome to quote.",
-      icons: null,
     },
     {
       title: "FUCK.FO",
       description: "Welcome to quote.",
-      icons: null, 
     }
   ],
 }
