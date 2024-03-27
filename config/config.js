@@ -84,7 +84,7 @@ export const projects = {
       icons: [
         {
           icon: faGooglePlay,
-          link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
+          link: "https://nic.bn",
         },
         
       ]
@@ -95,7 +95,7 @@ export const projects = {
       icons: [
         {
           icon: faAppStore,
-          link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
+          link: "https://whois.ls",
         },
       
       ]
@@ -106,7 +106,7 @@ export const projects = {
       icons: [
         {
           icon: faGooglePlay,
-          link: "https://github.com/hashirshoaeb/portfolio",
+          link: "https://tools.st",
         },
       ]
     },
