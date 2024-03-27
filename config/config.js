@@ -96,7 +96,7 @@ export const work = {
       title: "RULE.ML",
       description: "Single character domain name.",
       icons: null,
-    }
+   },
   ],
 }
 
