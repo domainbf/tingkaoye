@@ -1,5 +1,5 @@
 
-iimport profile from './profile.PNG';
+import profile from './profile.PNG';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
@@ -15,8 +15,8 @@ export const navigation = {
       link: "#projects",
     },
     {
-      title: "Domain Name Alliance",
-      link: "https://domain.cards/",
+      title: "Mi Biao Franchise",
+      link: "#contact",
     },
     {
       title: "Contact information",
