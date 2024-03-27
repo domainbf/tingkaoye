@@ -1,30 +1,30 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
-<script src="https://kit.fontawesome.com/a204abe4a9.js" crossorigin="anonymous"></script>
+
 export const navigation = {
   name: "NIC.BN",
   links: [
     {
-      title: "website",
+      title: "About",
       link: "#about",
     },
     {
-      title: "domain name",
+      title: "Projects",
       link: "#projects",
     },
     {
-      title: "Mi Biao Franchise",
+      title: "Contact",
       link: "#contact",
     },
     {
-      title: "Contact information",
+      title: "Links",
       link: "/links",
     },
     {
-      title: "My Blog",
-      link: "https://shen.fan",
+      title: "Blog",
+      link: "https://medium.com/@hashirshoaeb",
     }
   ],
 }
@@ -48,43 +48,42 @@ export const intro = {
 }
 
 export const about = {
-  title: "Secure transaction",
+  title: "Who I am",
   description: [
-    "We guarantee that after you make the payment, the domain name will be securely transferred to any registered platform that you recognize.",
+    "We provide domain names with customization personalization uniqueness characteristics top-level domain names and provide you with high-quality domain names at a good price which will help you occupy a vital place in the digital field in the future.",
   ],
 }
 
 export const work = {
-  title: "Holding domain",
+  title: "What I do",
   cards: [
     {
-      title: "NIC.BN",
-      description: "Rare domain names.",
+      title: "Mobile App Development",
+      description: "I create pixel perfect iOS and Andriod apps using Flutter.",
       icons: null,
     },
     {
-      title: "F.AF",
-      description: "Single character domain name.",
+      title: "Web Development",
+      description: "I create responsive static websites using Reactjs.",
       icons: null,
     },
     {
-      title: "L.KE",
-      description: "Single character domain name.",
+      title: "Web Development",
+      description: "I create responsive static websites using Reactjs.",
       icons: null,
     }
   ],
 }
 
-
 export const projects = {
-  title: "Member website",
+  title: "Projects",
   cards: [
     {
-      title: "NIC.BN",
-      description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
+      title: "StarBook",
+      description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
       icons: [
         {
-          icon: fas fa-star-of-life,
+          icon: faAppStore,
           link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
         },
         {
@@ -94,8 +93,8 @@ export const projects = {
       ]
     },
     {
-      title: "Whois.ls",
-      description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
+      title: "QuranTalk",
+      description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
       icons: [
         {
           icon: faAppStore,
@@ -108,13 +107,12 @@ export const projects = {
       ]
     },
     {
-      title: "tools.st",
-      description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites.",
+      title: "Portfolio",
+      description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
       icons: [
         {
           icon: faGithub,
-          link: "https://tools.st",
-          
+          link: "https://github.com/hashirshoaeb/portfolio",
         },
       ]
     },
@@ -173,4 +171,3 @@ export const links = {
     },
   ]
 }
-export const bottomHTML = `
