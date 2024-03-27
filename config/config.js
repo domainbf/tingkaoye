@@ -1,3 +1,12 @@
+// 导入 Font Awesome 图标库的相关模块
+import { library, dom } from '@fortawesome/fontawesome-svg-core';
+import { fas } from '@fortawesome/free-solid-svg-icons';
+
+// 将 Solid 风格的图标添加到图标库中
+library.add(fas);
+
+// 使用 dom 方法来自动替换 HTML 文件中的 <i> 标签为 Font Awesome 图标
+dom.watch();
 
 import profile from './profile.png';
 import { faAppStore, faHouse, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
