@@ -1,7 +1,7 @@
 
 import profile from './profile.png';
-import { faAppStore, faHouse, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
-import { faHouse, faGooglePlay } from '@fortawesome/free-solid-svg-icons';
+import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
+import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
   name: "NIC.BN",
@@ -71,9 +71,10 @@ export const work = {
       title: "L.KE",
       description: "Single character domain name.",
       icons: null,
-    },
+    }
   ],
 }
+
 
 export const projects = {
   title: "Member website",
@@ -83,7 +84,7 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: faHouse,
+          icon: faGithub,
           link: "https://nic.bn",
         },   
       ]
@@ -93,7 +94,7 @@ export const projects = {
       description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
       icons: [
         {
-          icon: faGooglePlay,
+          icon: faGithub,
           link: "https://whois.ls",
         },        
       ]
@@ -103,8 +104,9 @@ export const projects = {
       description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites.",
       icons: [
         {
-          icon: faGooglePlay,
+          icon: faGithub,
           link: "https://tools.st",
+          
         },
       ]
     },
@@ -163,4 +165,4 @@ export const links = {
     },
   ]
 }
-export const bottomHTML = `代码有错误`;
+export const bottomHTML = `
