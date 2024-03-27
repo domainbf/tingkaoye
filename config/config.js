@@ -103,7 +103,7 @@ export const projects = {
       description: "Comprehensive query websites such as domain name availability and holder related information + DNS query.",
       icons: [
         {
-          icon: faGithub,
+          icon: faGooglePlay,
           link: "https://whois.ls",
         },        
       ]
@@ -113,7 +113,7 @@ export const projects = {
       description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites.",
       icons: [
         {
-          icon: faGithub,
+          icon: faGooglePlay,
           link: "https://tools.st",
           
         },
