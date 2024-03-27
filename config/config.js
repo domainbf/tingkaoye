@@ -174,5 +174,3 @@ export const links = {
   ]
 }
 export const bottomHTML = `
-<a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/[domain]" atl="米表联盟 BadgeBar"/></a>
-`;
