@@ -79,39 +79,33 @@ export const projects = {
   title: "Projects",
   cards: [
     {
-      title: "StarBook",
-      description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
+      title: "NIC.BN",
+      description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: faAppStore,
+          icon: faGooglePlay,
           link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
         },
-        {
-          icon: faGithub,
-          link: "https://github.com/hashirshoaeb/star_book",
-        },
+        
       ]
     },
     {
-      title: "QuranTalk",
-      description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+      title: "Whois.ls",
+      description: "Comprehensive query websites such as domain name availability and holder related information + DNS query",
       icons: [
         {
           icon: faAppStore,
           link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
         },
-        {
-          icon: faGooglePlay,
-          link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
-        },
+      
       ]
     },
     {
-      title: "Portfolio",
-      description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+      title: "Tools.st",
+      description: "Domain name related navigation URL, including domain name registration price comparison, DNS query, Whois history and other related websites",
       icons: [
         {
-          icon: faGithub,
+          icon: faGooglePlay,
           link: "https://github.com/hashirshoaeb/portfolio",
         },
       ]
