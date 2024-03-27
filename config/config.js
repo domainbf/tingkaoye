@@ -86,8 +86,7 @@ export const projects = {
         {
           icon: faAppStore,
           link: "https://nic.bn",
-        },
-      
+        },   
       ]
     },
     {
@@ -97,8 +96,7 @@ export const projects = {
         {
           icon: faAppStore,
           link: "https://whois.ls",
-        },
-        
+        },        
       ]
     },
     {
