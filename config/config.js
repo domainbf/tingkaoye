@@ -185,7 +185,7 @@ export const links = {
   cards: [
     {
       title: "My Email",
-      link: "domain@name.cf",
+      link: "mailto:domain@name.cf",
     },
     {
       title: "My WhatsApp",
@@ -201,7 +201,7 @@ export const links = {
     },
     {
       title: "My VOICE",
-      link: "+16267895678",
+      link: "tel:16267895678",
     },
   ]
 }
