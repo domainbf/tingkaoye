@@ -1,7 +1,7 @@
 
-import profile from './profile.PNG';
+iimport profile from './profile.PNG';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
   name: "NIC.BN",
@@ -32,7 +32,7 @@ export const navigation = {
 export const intro = {
   title: "Hey, I'm Li",
   description: "A player who especially likes to collect domain names.",
-  image: profile,
+  image: profile.src,
   buttons: [
     {
       title: "Contact Me",
@@ -60,46 +60,57 @@ export const work = {
     {
       title: "NIC.BN",
       description: " Rare domain names.",
+      icons: null,
     },
     {
       title: "F.AF",
       description: "Single character domain name.",
+      icons: null,
     },
     {
       title: "L.KE",
       description: "Single character domain name.",
+      icons: null,
     },
     {
       title: "CXL.NET",
       description: "Welcome to quote.",
+      icons: null,
     },
     {
       title: "SORA.MK",
       description: "Welcome to quote.",
-    },
+      icons: null,
+     },
     {
       title: "RULE.ML",
       description: "Welcome to quote.",
+      icons: null,
     },
     {
       title: "INTELS.AT",
       description: "Welcome to quote.",
-    },
+      icons: null,
+     },
     {
       title: "SALE.VG",
       description: "Welcome to quote.",
+      icons: null,
     },
     {
       title: "Fil.ng",
       description: "Welcome to quote.",
-    },
+      icons: null, 
+     },
     {
       title: "FUCK.BF",
       description: "Welcome to quote.",
+      icons: null,
     },
     {
       title: "FUCK.FO",
       description: "Welcome to quote.",
+      icons: null, 
     }
   ],
 }
@@ -144,7 +155,7 @@ export const projects = {
 
 export const contact = {
   title: "Get in touch",
-  description: "Every domain name has a story that belongs to it, and the story that belongs to you, it may be here.",
+  description: "I firmly believe that in the future digital field, holding a top-notch domain name will make your individual or company's ID on the Internet unique. NIC.BN.",
   buttons: [
     {
       title: "Email Me",
@@ -164,17 +175,17 @@ export const SEO = {
   // 50 - 60 char  
   title: "Registered domain name | single character one letter domain name | Custom domain name | delayed delivery domain name",
   description: "Since 2022, we have provided customers with personalized one-letter single-character domain names and special prefix net domain names. We look forward to providing you with domain name privatization customization services.",
-  image: profile,
+  image: profile.src,
 }
 
 export const links = {
-  image: profile,
+  image: profile.src,
   title: "@不讲李",
   description: "Like domain names | Likes beautiful women | Likes food",
   cards: [
     {
       title: "My Email",
-      link: "mailto:domain@name.cf",
+      link: "domain@name.cf",
     },
     {
       title: "My WhatsApp",
@@ -190,8 +201,7 @@ export const links = {
     },
     {
       title: "My VOICE",
-      link: "tel:6267895678",
+      link: "+16267895678",
     },
   ]
 }
-
