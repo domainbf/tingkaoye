@@ -81,6 +81,36 @@ export const work = {
       title: "L.KE",
       description: "Single character domain name.",
       icons: null,
+     },
+    {
+      title: "F.AF",
+      description: "Single character domain name.",
+      icons: null,
+    },
+    {
+      title: "L.KE",
+      description: "Single character domain name.",
+      icons: null,
+     },
+    {
+      title: "F.AF",
+      description: "Single character domain name.",
+      icons: null,
+    },
+    {
+      title: "L.KE",
+      description: "Single character domain name.",
+      icons: null, 
+     },
+    {
+      title: "F.AF",
+      description: "Single character domain name.",
+      icons: null,
+    },
+    {
+      title: "L.KE",
+      description: "Single character domain name.",
+      icons: null, 
     }
   ],
 }
@@ -104,7 +134,7 @@ export const projects = {
       description: "Comprehensive query websites such as domain name availability and holder related information + DNS query",
       icons: [
         {
-          icon: faAppStore,
+          icon: faGooglePlay,
           link: "https://whois.ls",
         },
       
