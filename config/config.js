@@ -155,7 +155,7 @@ export const projects = {
 
 export const contact = {
   title: "Get in touch",
-  description: "I firmly believe that in the future digital field, holding a top-notch domain name will make your individual or company's ID on the Internet unique. NIC.BN.",
+  description: "Every domain name has a story that belongs to it, and the story that belongs to you, it may be here.",
   buttons: [
     {
       title: "Email Me",
