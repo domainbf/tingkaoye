@@ -55,21 +55,31 @@ export const about = {
 }
 
 export const work = {
-  title: "What I do",
+  title: "Domain name held",
   cards: [
     {
-      title: "Mobile App Development",
-      description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+      title: "NIC.BN",
+      description: " Rare domain names.",
       icons: null,
     },
     {
-      title: "Web Development",
-      description: "I create responsive static websites using Reactjs.",
+      title: "F.AF",
+      description: "Single character domain name.",
       icons: null,
     },
     {
-      title: "Web Development",
-      description: "I create responsive static websites using Reactjs.",
+      title: "L.KE",
+      description: "Single character domain name.",
+      icons: null,
+    },
+    {
+      title: "F.AF",
+      description: "Single character domain name.",
+      icons: null,
+    },
+    {
+      title: "L.KE",
+      description: "Single character domain name.",
       icons: null,
     }
   ],
