@@ -1,6 +1,6 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faSignInAlt, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
@@ -84,7 +84,7 @@ export const projects = {
       description: "Nic.bn is a company that provides services such as special price domain name registration, domain name customization and domain name delay delivery.",
       icons: [
         {
-          icon: faGithub,
+          icon: faSignInAlt,
           link: "https://nic.bn",
         },   
       ]
