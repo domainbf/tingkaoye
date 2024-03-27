@@ -2,7 +2,7 @@
 import profile from './profile.png';
 import { faAppStore, faGithub, faShareSquare, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
-
+<script src="https://kit.fontawesome.com/a204abe4a9.js" crossorigin="anonymous"></script>
 export const navigation = {
   name: "NIC.BN",
   links: [
