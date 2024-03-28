@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-
+import { Analytics } from "@vercel/analytics/react"
 export const Contact = ({ title, description, buttons }) => {
 	return (
 		<div id="contact" className="bg-white py-5 px-5">
