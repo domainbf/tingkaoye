@@ -35,7 +35,7 @@ export const Footer = () => {
 	return (
 		<footer className="bg-secondary text-center py-2 px-5">
 			<div className="container text-muted">
-				<small>© 2024 <a href=" ">NIC.BN</a>. Domain name registrant <a href="https://domain.bf"></a></small>
+				<small>© 2024 <a href=" ">NIC.BN</a>. Domain name registrant <a href="https://domain.bf">Domain.BF</a></small>
 				<p><a title="米表联盟[Domain.Cards]" href="https://domain.cards/"><img width="150" height="40" src="https://domain.cards/api/badge/domain.bf" alt="米表联盟 BadgeBar" /></a></p>
 			</div>
 			<script defer src="https://tongji.china.tn/random-string.js" data-website-id="da7cdf57-6304-4853-a4b2-a4b03d2fd0c8"></script>
