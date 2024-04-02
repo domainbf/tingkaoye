@@ -37,7 +37,6 @@ export default function Home() {
         description={contact.description}
         buttons={contact.buttons}
       />
-        <script defer src="https://tongji.china.tn/random-string.js" data-website-id="da7cdf57-6304-4853-a4b2-a4b03d2fd0c8"></script>
       <Footer />
     </Fragment>
   );
